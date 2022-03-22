@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: New Sprite Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: normal
+    m_Hash: 562391268
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -7672940173046143304, guid: f55a6e2710a2af94a8b502e4a9a65286,
+        type: 3}
+    - m_Name: angry
+      m_Hash: -1061083495
+      m_Sprite: {fileID: 21300006, guid: 62aab9d0b7eea6d46a98bc6bfb5f255e, type: 3}
+  - m_Name: angry
+    m_Hash: -1061083495
+    m_CategoryList:
+    - m_Name: normal
+      m_Hash: 562391268
+      m_Sprite: {fileID: -7672940173046143304, guid: f55a6e2710a2af94a8b502e4a9a65286,
+        type: 3}
+    - m_Name: angry
+      m_Hash: -1061083495
+      m_Sprite: {fileID: 21300006, guid: 62aab9d0b7eea6d46a98bc6bfb5f255e, type: 3}
